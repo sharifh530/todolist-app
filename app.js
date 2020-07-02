@@ -34,7 +34,7 @@ const item1 = new Item({
   name: "Coding"
 });
 
-item1.save();
+// item1.save();
 
 
 const defaultItems = [];
